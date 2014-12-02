@@ -1,0 +1,12 @@
+IMDB_10_Dates = ['1994','1972','1974','2008','1994',
+                '1966','1993','1957','2003','1999']
+puts IMDB_10_Dates[0]
+puts IMDB_10_Dates[1]
+puts IMDB_10_Dates[2]
+puts IMDB_10_Dates[3]
+puts IMDB_10_Dates[4]
+puts IMDB_10_Dates[5]
+puts IMDB_10_Dates[6]
+puts IMDB_10_Dates[7]
+puts IMDB_10_Dates[8]
+puts IMDB_10_Dates[9]
