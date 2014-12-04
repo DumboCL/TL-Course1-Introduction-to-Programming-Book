@@ -19,12 +19,12 @@ This is my TeaLeaf Course 1 - "Introduction to Programming Book" exercises solut
 
 [age.rb][age]
 
-[TheBasics_1]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/TheBasics_1.rb
-[TheBasics_2]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/TheBasics_2.rb
-[TheBasics_3]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/TheBasics_3.rb
-[TheBasics_4]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/TheBasics_4.rb
-[TheBasics_5]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/TheBasics_5.rb
-[TheBasics_6]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/TheBasics_6.rb
+[TheBasics_1]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_1.rb
+[TheBasics_2]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_2.rb
+[TheBasics_3]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_3.rb
+[TheBasics_4]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_4.rb
+[TheBasics_5]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_5.rb
+[TheBasics_6]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_6.rb
 
-[name]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/age.rb
-[age]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/name.rb
+[name]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/age.rb
+[age]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/name.rb
