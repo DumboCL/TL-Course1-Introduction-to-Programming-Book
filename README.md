@@ -19,6 +19,12 @@ This is my TeaLeaf Course 1 - "Introduction to Programming Book" exercises solut
 
 [age.rb][age]
 
+#Methods
+[Methods_1.rb][Methods_1]
+[Methods_3.rb][Methods_3]
+[Methods_5.rb][Methods_5]
+
+
 [TheBasics_1]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_1.rb
 [TheBasics_2]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_2.rb
 [TheBasics_3]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/TheBasics_3.rb
@@ -28,3 +34,7 @@ This is my TeaLeaf Course 1 - "Introduction to Programming Book" exercises solut
 
 [name]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/age.rb
 [age]: https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/name.rb
+
+[Methods_1]:https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/Methods_1.rb
+[Methods_3]:https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/Methods_3.rb
+[Methods_5]:https://github.com/DumboCL/TL-Course1-Introduction-to-Programming-Book/blob/master/Methods_5.rb
