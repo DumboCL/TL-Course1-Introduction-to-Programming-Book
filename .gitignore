@@ -10,3 +10,5 @@ conditional_loop.rb
 countdown.rb
 perform_again.rb
 practice_each.rb
+iterating_over_hashes.rb
+optional_parameters.rb
